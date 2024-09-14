@@ -1,7 +1,5 @@
 # ACONEWS: Your Go-To News App 📰
 
-Welcome to ACONEWS! This README will guide you through the process of setting up your sleek, responsive news app using Django and Firebase. Let’s dive in!
-
 ## Step 1: Get to Know the Source 🕵️‍♂️
 
 1. Visit [gnews.io](https://gnews.io/).
