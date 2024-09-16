@@ -1,5 +1,9 @@
 # ACONEWS: Your Go-To News App 📰
 ACONEWS is a dynamic news platform built with Django, delivering up-to-date articles by integrating the GNews API. The website is designed for a sleek, responsive user experience.
+
+# Demo
+![image](DEMO.png)
+
 ## Step 1: Get to Know the Source 🕵️‍♂️
 
 1. Visit [gnews.io](https://gnews.io/).
